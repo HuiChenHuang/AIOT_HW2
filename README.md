@@ -40,10 +40,14 @@
 ![https://ithelp.ithome.com.tw/upload/images/20241028/20151681zsLPnmzhfo.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681zsLPnmzhfo.png)
 
 [after_no1_final_leaderboard.png](after_no1_final_leaderboard.png) : 將no1.py 的程式, 完成所有 "作業說明" 的內容, 也參考了 "分析範例", 並將結果 submission_final.csv 傳上Kaggle 顯示的排名結果圖片
+
 ![https://ithelp.ithome.com.tw/upload/images/20241028/20151681v7nfuHD6gj.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681v7nfuHD6gj.png)!
 
 [run_no1_final_result.png](run_no1_final_result.png) : 執行no1_final.py 完成的terminal結果
-[https://ithelp.ithome.com.tw/upload/images/20241028/20151681ySmvMpdO2Y.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681ySmvMpdO2Y.png)
+
+![https://ithelp.ithome.com.tw/upload/images/20241028/20151681ySmvMpdO2Y.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681ySmvMpdO2Y.png)
 
 [conf_matrix.png](conf_matrix.png) : 執行no1_final.py產生的confusion matrix heatmap (blue colour)
-[https://ithelp.ithome.com.tw/upload/images/20241028/20151681Mv5DUmLYOv.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681Mv5DUmLYOv.png)!
+
+![https://ithelp.ithome.com.tw/upload/images/20241028/20151681Mv5DUmLYOv.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681Mv5DUmLYOv.png)
+
