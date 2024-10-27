@@ -36,7 +36,8 @@
 ## images:
 
 [before_no1_final_leaderboard.png](before_no1_final_leaderboard.png) : 參考Kaggle Titanic NO.1 "Lei Michelle" 的程式(no1.py), 並將結果 submission.csv 傳上Kaggle 顯示的排名結果圖片
-[https://ithelp.ithome.com.tw/upload/images/20241028/20151681zsLPnmzhfo.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681zsLPnmzhfo.png)!
+
+![https://ithelp.ithome.com.tw/upload/images/20241028/20151681zsLPnmzhfo.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681zsLPnmzhfo.png)
 
 [after_no1_final_leaderboard.png](after_no1_final_leaderboard.png) : 將no1.py 的程式, 完成所有 "作業說明" 的內容, 也參考了 "分析範例", 並將結果 submission_final.csv 傳上Kaggle 顯示的排名結果圖片
 ![https://ithelp.ithome.com.tw/upload/images/20241028/20151681v7nfuHD6gj.png](https://ithelp.ithome.com.tw/upload/images/20241028/20151681v7nfuHD6gj.png)!
