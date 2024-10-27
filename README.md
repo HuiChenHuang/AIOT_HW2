@@ -33,7 +33,7 @@
 
 [no1_final.py](no1_final.py) : 使用Kaggle Titanic NO.1 "Lei Michelle" 的程式(no1.py), 完成以上所有 "作業說明" 的內容, 也參考了 "分析範例", 使輸出結果排名從原本的 "11996" 上升到 "392"
 
-#images:
+## images:
 
 [before_no1_final_leaderboard.png](AIOT_HW2/before_no1_final_leaderboard.png) : 參考Kaggle Titanic NO.1 "Lei Michelle" 的程式(no1.py), 並將結果 submission.csv 傳上Kaggle 顯示的排名結果圖片
 
